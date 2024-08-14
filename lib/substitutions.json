@@ -9270,5 +9270,41 @@
       "before": "captain Gaile",
       "after": "Captain Gaile"
     }
+  ],
+  "https://parahumans.wordpress.com/2017/10/21/glowworm-p-1/": [
+    {
+      "before": "Unread messages in private message history",
+      "after": "Unread messages in private message history."
+    },
+    {
+      "before": "snowfall and the groundwater was contaminated",
+      "after": "snowfall and the groundwater were contaminated"
+    },
+    {
+      "before": "spur of the moment, after the manhandling",
+      "after": "spur of the moment after the manhandling"
+    },
+    {
+      "before": "coming and going but",
+      "after": "coming and going, but"
+    },
+    {
+      "before": "<strong>Danger Zone</strong> </span>are",
+      "after": "<strong>Danger Zone</strong></span> are"
+    }
+  ],
+  "https://parahumans.wordpress.com/2017/10/24/glow-worm-p-2/": [
+    {
+      "before": "Welcome to the Parahumans Online message boards.",
+      "after": "<strong>Welcome to the Parahumans Online message boards.</strong>"
+    },
+    {
+      "before": "You are currently logged in, <strong><span style=\"text-decoration:underline;\">Capricorn</span></strong>",
+      "after": "You are currently logged in, <span style=\"text-decoration:underline;\">Capricorn</span>"
+    },
+    {
+      "before": "Edit that list <span style=\"text-decoration:underline;\"><strong>Here.</strong></span>",
+      "after": "Edit that list <span style=\"text-decoration:underline;\"><strong>Here</strong></span>."
+    }
   ]
 }

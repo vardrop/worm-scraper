@@ -9,3 +9,7 @@ The _Ward_ cover is assembled from:
 
 - [zearoe's fanart](https://www.reddit.com/r/Parahumans/comments/b8n7o0/fanartrepost_antares/) on Reddit
 - The header image on [parahumans.net](https://www.parahumans.net/)
+
+The _Glow-worm_ cover is assembled from:
+
+- [u/Nadoriel fanart](https://imgur.com/gallery/if-were-talking-superheroes-heres-favourite-superhero-story-GB99iht#/t/parahumans) on Reddit
